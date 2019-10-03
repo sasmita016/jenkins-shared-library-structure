@@ -1,5 +1,6 @@
 
 def call(Map stageParams) {
  
-    groovy -v
+    //groovy -v
+ print "Hello World!\n"
   }
